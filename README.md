@@ -1,3 +1,3 @@
 ### Test App
 
-This is a testing app an unreal car hire company
+This is a testing app a car hire company
